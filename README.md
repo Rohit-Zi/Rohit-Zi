@@ -57,39 +57,8 @@
 <p>
 <img src="https://img.shields.io/badge/LLM_Workflows-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</p>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<p align="center">
-<a href="https://github.com/Rohit-Zi/Threat-Intelligence-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit-Zi&repo=Threat-Intelligence-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/Rohit-Zi/Multi-cloud-Monitoring-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit-Zi&repo=Multi-cloud-Monitoring-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</a>
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit-Zi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Zi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="30%"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rohit-Zi&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rohit-Zi&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 <br/>
